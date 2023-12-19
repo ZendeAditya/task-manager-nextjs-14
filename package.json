@@ -11,7 +11,9 @@
   "dependencies": {
     "@clerk/clerk-js": "^4.67.0",
     "@clerk/nextjs": "^4.28.1",
+    "@prisma/client": "^5.7.1",
     "next": "14.0.4",
+    "prisma": "^5.7.1",
     "react": "^18",
     "react-dom": "^18",
     "styled-components": "^6.1.1"
